@@ -1,0 +1,3 @@
+1. Persistence. How not to lose or corrupt your data. Recovering from a crash.
+2. Indexing. Efficiently querying and manipulating your data. (B-tree).
+3. Concurrency. How to handle multiple (large number of ) clients. And transactions.
